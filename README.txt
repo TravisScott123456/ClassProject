@@ -1,0 +1,1 @@
+CS1030 is a great learning experience for me because computer science talks about the principles of computers and how they work.
